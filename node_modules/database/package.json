@@ -1,0 +1,8 @@
+{
+  "name": "database",
+  "description": "",
+  "authors": "Felipe Robles",
+  "version": "1.0.0",
+  "main": "connect.js",
+  "dependencies": {}
+}

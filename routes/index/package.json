@@ -1,0 +1,8 @@
+{
+  "name": "routes-index",
+  "description": "",
+  "authors": "Felipe Robles",
+  "version": "1.0.0",
+  "main": "routes.js",
+  "dependencies": {}
+}

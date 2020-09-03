@@ -1,0 +1,8 @@
+{
+  "name": "shared",
+  "description": "",
+  "authors": "Felipe Robles",
+  "version": "1.0.0",
+  "main": "response.js",
+  "dependencies": {}
+}

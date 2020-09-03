@@ -1,0 +1,8 @@
+{
+  "name": "utility",
+  "description": "",
+  "authors": "Felipe Robles",
+  "version": "1.0.0",
+  "main": "utility.js",
+  "dependencies": {}
+}
